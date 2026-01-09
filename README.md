@@ -45,7 +45,7 @@ Distinguishes NISQ-era (now), near-term (5yr), and fault-tolerant (2030+)
 ## Quick Start
 
 ```python
-from quantum_advisor import QuantumAdvisor
+from advisor import QuantumAdvisor
 
 advisor = QuantumAdvisor()
 
@@ -76,7 +76,7 @@ CITATIONS: Shor (1994), Gidney et al. (2019)
 ## Demo
 
 ```bash
-python3 quantum_advisor/advisor.py
+python3 advisor.py
 ```
 
 See reality checks for:
